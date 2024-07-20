@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+bt
+# lib-pybroker #若需要使用pybroker，请安装这个包，默认可以不安装，多数例子基于backtrader。
+loguru
+jupyter
+numpy==1.23.0
+matplotlib==3.2.2
+backtrader
+quantstats
+statsmodels
+empyrical
+backtrader_plotting
+
+# ctpbee #若需要实盘，请安装这个包
